@@ -22,7 +22,7 @@ export default function AnalyticsPage() {
 
   return (
     <AdminShell>
-      <div style={{ padding:"32px 28px" }}>
+      <div style={{ padding:"20px 16px" }}>
         <div style={{ marginBottom:28 }}>
           <h1 style={{ fontFamily:"Georgia,serif", fontSize:24, fontWeight:600, color:"#fff", margin:0 }}>Analytics</h1>
           <p style={{ fontSize:13, color:"rgba(255,255,255,0.3)", marginTop:4 }}>Key performance metrics</p>

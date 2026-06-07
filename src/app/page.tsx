@@ -37,7 +37,7 @@ export default function DashboardPage() {
 
   return (
     <AdminShell>
-      <div style={{ padding:"32px 28px", maxWidth:1100, margin:"0 auto" }}>
+      <div style={{ padding:"20px 16px", maxWidth:1100, margin:"0 auto" }}>
         <div style={{ marginBottom:28 }}>
           <h1 style={{ fontFamily:"Georgia,serif", fontSize:26, fontWeight:600, color:"#fff", margin:0 }}>Dashboard</h1>
           <p style={{ fontSize:13, color:"rgba(255,255,255,0.3)", marginTop:4 }}>Welcome back, Sahil. Here&apos;s what&apos;s happening.</p>
